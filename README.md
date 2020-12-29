@@ -20,7 +20,7 @@ Based on conda environment
 
 # Organization
 ## Data Analysis & Visualization
-* **[bluehyena](https://github.com/bluehyena)
-* **[ch4n3-yoon](https://github.com/ch4n3-yoon)
-* **[mmindoong](https://github.com/https://github.com/mmindoong)
-* **[ssw03270](https://github.com/ssw03270)
+* **[bluehyena](https://github.com/bluehyena)**
+* **[ch4n3-yoon](https://github.com/ch4n3-yoon)**
+* **[mmindoong](https://github.com/https://github.com/mmindoong)**
+* **[ssw03270](https://github.com/ssw03270)**
